@@ -1,0 +1,15 @@
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.csproj.AssemblyReference.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.AssemblyInfoInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.AssemblyInfo.cs
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.csproj.CoreCompileInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\bin\Debug\net7.0\HW003.exe
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\bin\Debug\net7.0\HW003.deps.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\bin\Debug\net7.0\HW003.runtimeconfig.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\bin\Debug\net7.0\HW003.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\bin\Debug\net7.0\HW003.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\refint\HW003.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\HW003.genruntimeconfig.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork003\HW003\obj\Debug\net7.0\ref\HW003.dll
