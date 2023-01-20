@@ -25,19 +25,6 @@
 
 // 2, 4 -> 16
 
-// Не использовать Math.Pow() и аналоги!
-
-// Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
-
-// 452 -> 11
-
-// 82 -> 10
-
-// 9012 -> 12
-
-// Задача 29: Напишите программу, которая задаёт массив
-// из 8 элементов и выводит их на экран. Данные вводятся с консоли пользователем
-
 int ReadNumbers (string message)
 {
     Console.WriteLine(message);
@@ -46,11 +33,12 @@ int ReadNumbers (string message)
 
 int raiseAtoB (int number1,int number2)
 {
-    for(int i = 1 ; i <= number2 ; i++)
-    {
-        number1=number1*i;
-    }
-    return number1;
+int temp = number1;
+  for (int i = 1; i < number2; i++)
+  {
+    number1=number1*temp;
+  }
+  return number1;
 }
 int a = ReadNumbers("Введите число a"); 
 int b = ReadNumbers("Введите число b"); 
